@@ -1,0 +1,9 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  desc: MyText
+  user: 
+
+two:
+  desc: MyText
+  user: 
